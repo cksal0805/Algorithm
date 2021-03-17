@@ -34,10 +34,11 @@
   - [binary_tree_preorder_traversal]()
 
 - 코딜리티
-  - [binary-gap](https://app.codility.com/c/run/training6WQTGN-TQU/)
-  - [cyclicRotation](https://app.codility.com/c/run/trainingGGEPQN-GRT/)
-  - [OddOccurrencesInArray](https://app.codility.com/c/run/trainingF7F4YJ-6EM/)
-  
+  - [binary-gap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+  - [cyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+  - [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+  - [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+
 - 프로그래머스 문제
   - [기능개발]()
   - [예상대진표]()
