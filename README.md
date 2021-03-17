@@ -35,6 +35,7 @@
 
 - 코딜리티
   - [binary-gap](https://app.codility.com/c/run/training6WQTGN-TQU/)
+  - [cyclicRotation](https://app.codility.com/c/run/trainingGGEPQN-GRT/)
 - 프로그래머스 문제
   - [기능개발]()
   - [예상대진표]()
