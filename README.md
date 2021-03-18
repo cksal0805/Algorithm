@@ -43,7 +43,7 @@
   - [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
   - [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
   - [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
-
+  - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
 
 - 프로그래머스 문제
   - [기능개발]()
