@@ -32,6 +32,7 @@
   - [sequence]()
   - [combination]()
   - [binary_tree_preorder_traversal]()
+  - [partition](https://leetcode.com/problems/partition-list/submissions/)
 
 - 코딜리티
   - [binary-gap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
@@ -44,6 +45,7 @@
   - [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
   - [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
   - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
+  - [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
 
 - 프로그래머스 문제
   - [기능개발]()
