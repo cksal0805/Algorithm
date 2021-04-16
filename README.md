@@ -29,9 +29,9 @@
   - [maxinum-subarry]()
   - [single-number]()
   - [Sum_of_Nodes_with_Even-Valued-Grandparent]()
-  - [sequence]()
-  - [combination]()
-  - [binary_tree_preorder_traversal]()
+  - [sequence](https://leetcode.com/problems/permutation-sequence/)
+  - [combination](https://leetcode.com/problems/combinations/)
+  - [binary_tree_preorder_traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   - [partition](https://leetcode.com/problems/partition-list/submissions/)
 
 - 코딜리티
@@ -55,4 +55,6 @@
   - [큰 수 만들기]()
   - [보석]()
   - [배열회전]()
+  - [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+  - [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
   
