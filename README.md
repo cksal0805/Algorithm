@@ -1,5 +1,9 @@
 # 알고리즘
 
+## js와 python을 이용하여 알고리즘을 풀고 있습니다. 현재는 주로 js를 이용하여 풀고 있습니다.
+
+---
+
 - 해시 알고리즘
   - [완주하지못한 선수]()
   - [위장]()
@@ -15,6 +19,8 @@
   - [문자열 재정렬]()
   - [문자열 압축]()
   - [자물쇠와 열쇠]()
+  - [왕실의나이트](https://yoon-dumbo.tistory.com/17)
+  - [상하좌우](https://yoon-dumbo.tistory.com/16)
 
 - 완전탐색 알고리즘
   - [소수찾기]()
@@ -55,6 +61,9 @@
   - [큰 수 만들기]()
   - [보석]()
   - [배열회전]()
+  - [수포자](https://yoon-dumbo.tistory.com/12)
+  - [K번째 수](https://yoon-dumbo.tistory.com/13)
   - [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
   - [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+  - [징검다리건너기](https://yoon-dumbo.tistory.com/44)
   
