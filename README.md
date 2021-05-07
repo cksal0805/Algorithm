@@ -59,7 +59,7 @@
   - [예상대진표]()
   - [문자열정렬]()
   - [큰 수 만들기]()
-  - [보석]()
+  - [보석](https://programmers.co.kr/learn/courses/30/lessons/67258)
   - [배열회전]()
   - [수포자](https://yoon-dumbo.tistory.com/12)
   - [K번째 수](https://yoon-dumbo.tistory.com/13)
