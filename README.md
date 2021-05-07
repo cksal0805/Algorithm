@@ -66,4 +66,5 @@
   - [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
   - [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
   - [징검다리건너기](https://yoon-dumbo.tistory.com/44)
+  - [가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
   
